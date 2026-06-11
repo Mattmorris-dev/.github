@@ -1,3 +1,5 @@
+<header>
+  
 # Hi there Everyone Welcome 👋
 
 
@@ -17,3 +19,51 @@
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
+</header>
+
+
+<div>
+  
+## 🚀 Projects
+
+### 🔍 NetWatch
+> **Python · Flask · OSINT · Honeypots · Network Intelligence**
+> <img width="1678" height="1443" alt="netwatch-square" src="https://github.com/user-attachments/assets/7692e0b0-c846-45c5-b58e-f88eda9fc6d1" />
+
+
+[![PyPI](https://img.shields.io/pypi/v/netwatch-sec.svg)](https://pypi.org/project/netwatch-sec/)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://github.com/mattymomo1993/netwatch/blob/main/LICENSE)
+
+All-in-one network security dashboard: 4 honeypots, live packet capture, OSINT, scanning, iptables defense, and LoRa mesh alerts. Single Python file, runs on a Pi.
+
+```bash
+pip install netwatch-sec
+sudo netwatch
+```
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/mattymomo1993/netwatch)
+[![PyPI](https://img.shields.io/badge/PyPI-Package-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/netwatch-sec/)
+
+---
+
+### 📡 Handshake Cracker
+> **Python · Wireless Security · WPA/WPA2**
+
+Wireless handshake capture and analysis tool. Built for authorized penetration testing and security research.
+
+`[Private Repo]`
+
+---
+
+### 🛡️ Pi-hole Home Router
+> **Raspberry Pi · Linux · Networking · DNS**
+
+Converted a Raspberry Pi 3B+ into a full home router — Pi-hole, Unbound recursive DNS, iptables NAT, and 802.1Q VLAN trunking over a single ethernet port.
+
+[![View Guide](https://img.shields.io/badge/View%20Guide-Live-brightgreen?style=for-the-badge)](https://mattymomo1993.github.io/pihole-router-guide)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/mattymomo1993/pihole-router-guide)
+</div>
+---
+<div>
+</picture>
+</div>
