@@ -1,6 +1,8 @@
 <header>
   
-<img src="mylogo.jpg" alt="Morris Software & Development" width="200">
+<div align="left">
+  <img src="mylogo.jpg" alt="Morris Software & Development" width="200" hspace="24" vspace="20">
+</div>
 
 # Hi there Everyone Welcome 👋
 
